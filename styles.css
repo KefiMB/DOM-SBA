@@ -24,7 +24,20 @@ body{
     background-color: #cdb4db;
     color: white;
 }
+.navbar-inner {
+    background:transparent;
+}
 h1 {
-    font-family: ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(158, 123, 129);
 
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img {
+    flex:  ;
 }
