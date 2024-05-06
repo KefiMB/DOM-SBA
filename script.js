@@ -1,6 +1,7 @@
 console.log("SBA 0.3")
 
-cosnt heading = document.querySelector('h1');
+const headingEl = document.querySelector('h1');
+mainEl.style.color = rgb(158, 123, 129);
 
 
 const newParagraph = document.createElement('p');
