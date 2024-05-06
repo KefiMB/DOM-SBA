@@ -18,4 +18,8 @@ fragment.appendChild(templateContent);
 const targetElement = document.getElementById('target');
 targetElement.appendChild(fragment);
 
+const button = document.getElementById('button')
+button.addEventListener('click', () => {
+    paragraph.innerText = 'Click me please!';
+});
 
